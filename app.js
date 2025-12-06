@@ -4,13 +4,13 @@ import { getFirestore, collection, getDocs } from "https://www.gstatic.com/fireb
 
 // Initialize Firebase
 const firebaseConfig = {
-        apiKey: "AIzaSyD-vHeGcxpQuEo5EnwZf-68Va4qJ89HgVk",
-        authDomain: "laundramat-fcb0d.firebaseapp.com",
-        projectId: "laundramat-fcb0d",
-        storageBucket: "laundramat-fcb0d.firebasestorage.app",
-        messagingSenderId: "435784534644",
-        appId: "1:435784534644:web:1c371780c6c4a33a84df21",
-        measurementId: "G-3XDC09FVQF"
+        apiKey: "",
+        authDomain: " ",
+        projectId: " ",
+        storageBucket: " ",
+        messagingSenderId: " ",
+        appId: " 1",
+        measurementId: "G- "
         };
 const app = initializeApp(firebaseConfig);
 const db = getFirestore(app);
